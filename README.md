@@ -2,7 +2,7 @@ HR:
 
 servo nastavak pričvrstiti na sg90 servo motor sa servo šerafom duljine 7.7mm i promjera 1.8mm
 
-
+---
 
 ENG:
 
